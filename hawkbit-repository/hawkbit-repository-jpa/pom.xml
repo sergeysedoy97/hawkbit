@@ -21,7 +21,7 @@
 
    <properties>
       <apt.source.dir>${project.build.directory}/generated-sources/apt/</apt.source.dir>
-      <classgraph.version>4.8.90</classgraph.version>
+      <classgraph.version>4.8.112</classgraph.version>
       <eclipselink.maven.plugin.version>2.7.5.1</eclipselink.maven.plugin.version>
    </properties>
 
